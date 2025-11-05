@@ -71,13 +71,4 @@ Comparison of the quantity purchased vs. the total cost incurred.
 
 Consider giving the repo a **star** ⭐ on GitHub!
 
----
-
-### 📧 Contact
-
-For any queries or improvements:
-
-> ✉️ [your-email@example.com](mailto:your-email@example.com)
-
----
 # sales-dashboard
