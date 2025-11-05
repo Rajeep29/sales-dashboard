@@ -53,9 +53,9 @@ Comparison of the quantity purchased vs. the total cost incurred.
 
 | Tool / Technology    | Purpose                          |
 | -------------------- | -------------------------------- |
-| **Excel / Power BI** | Dashboard creation & reporting   |
+| **Excel              | Dashboard creation & reporting   |
 | **Charts & Slicers** | Data filtering and visualization |
-| **Pivot Tables**     | Data analysis and aggregation    |
+| **Pivot Tables**     | Data analysis and aggregation    
 
 ---
 
@@ -66,32 +66,6 @@ Comparison of the quantity purchased vs. the total cost incurred.
 3. Adding Slicers for monthly/yearly filtering
 4. Designing visual charts for insights
 5. Dashboard styling for professional look and usability
-
----
-
-## 📎 Screenshot
-
-*(Insert dashboard image here)*
-
----
-
-## 📂 How to Use
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/sales-dashboard.git
-   ```
-2. Open the `.xlsx` or `.pbix` file in Excel / Power BI.
-3. Use the slicers to explore insights interactively.
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. If you’d like to contribute, please fork the repository and submit a PR.
-
----
 
 ## ⭐ If you found this useful
 
